@@ -1,0 +1,9 @@
+id_evento,id_equipamento,data,tipo_ocorrencia,descricao,acao_realizada
+H001,M-204,2026-08-12,Vibracao,Vibração acima do comportamento habitual,Inspeção e reaperto da base
+H002,M-204,2026-08-15,Rolamento,Ruído e desgaste identificado no rolamento,Troca do rolamento
+H003,M-204,2026-10-03,Aquecimento,Temperatura elevada durante operação,Inspeção e limpeza do sistema de ventilação
+H004,M-105,2026-07-20,Ruido,Ruído intermitente durante operação,Inspeção sem falha crítica identificada
+H005,P-301,2026-09-02,Vazamento,Pequeno vazamento próximo à vedação,Troca da vedação
+H006,C-101,2026-06-18,Pressao,Queda ocasional de pressão,Limpeza do filtro e inspeção
+H007,Q-201,2026-09-25,Desarme,Desarme inesperado do disjuntor,Inspeção elétrica e reaperto de conexões
+H008,AC-102,2026-05-10,Refrigeracao,Equipamento com baixa capacidade de refrigeração,Limpeza de filtros

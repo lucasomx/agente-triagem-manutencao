@@ -1,0 +1,13 @@
+PROCEDIMENTO DE SEGURANÇA EM MANUTENÇÃO
+
+Ocorrências envolvendo cheiro de queimado, presença de fumaça, faíscas,
+sobreaquecimento anormal de componentes elétricos ou desarmes repetidos
+devem ser tratadas como situações potencialmente críticas.
+
+Quando houver indício de risco elétrico, a equipe responsável deverá ser
+acionada com prioridade. O equipamento não deverá ser operado quando houver
+evidência de condição insegura.
+
+Situações com possibilidade de dano a pessoas ou equipamentos devem receber
+prioridade sobre ocorrências que causem apenas desconforto ou redução limitada
+de desempenho.

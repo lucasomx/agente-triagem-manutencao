@@ -1,0 +1,11 @@
+PROCEDIMENTO DE MANUTENÇÃO MECÂNICA
+
+Vibração excessiva, ruídos anormais, aquecimento e alterações no comportamento
+de motores, bombas e equipamentos rotativos devem ser avaliados considerando
+a criticidade do equipamento e seu histórico recente.
+
+A repetição de ocorrências semelhantes pode indicar degradação progressiva
+e deve ser considerada na priorização da inspeção.
+
+Equipamentos cuja parada interrompa diretamente o processo produtivo devem
+receber prioridade superior aos equipamentos sem impacto direto na produção.
