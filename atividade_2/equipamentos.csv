@@ -1,0 +1,9 @@
+id_equipamento,nome,tipo,setor,criticidade,status,impacto_parada
+M-204,Motor Principal Linha 2,Motor elétrico,Linha 2,alta,operando,Interrompe completamente a Linha 2
+M-105,Motor Esteira Linha 1,Motor elétrico,Linha 1,media,operando,Reduz a capacidade da Linha 1
+P-301,Bomba de Refrigeração,Bomba centrífuga,Utilidades,alta,operando,Pode causar interrupção de equipamentos dependentes de refrigeração
+C-101,Compressor Principal,Compressor,Utilidades,alta,operando,Afeta o fornecimento de ar comprimido para a produção
+Q-201,Quadro Elétrico Linha 2,Quadro elétrico,Linha 2,alta,operando,Pode interromper toda a alimentação elétrica da Linha 2
+V-401,Ventilador Almoxarifado,Ventilador,Almoxarifado,baixa,operando,Baixo impacto operacional
+AC-102,Ar-condicionado Administrativo,Ar-condicionado,Administrativo,baixa,operando,Sem impacto direto na produção
+L-501,Luminária Almoxarifado,Iluminação,Almoxarifado,baixa,operando,Baixo impacto operacional

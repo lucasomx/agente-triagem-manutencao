@@ -1,0 +1,6 @@
+id_equipe,nome,especialidade,disponivel,tempo_estimado_minutos
+E01,Equipe Elétrica,eletrica,sim,20
+E02,Equipe Mecânica,mecanica,sim,30
+E03,Equipe Utilidades,utilidades,nao,120
+E04,Equipe Predial,predial,sim,60
+E05,Equipe Refrigeração,refrigeracao,sim,45

@@ -1,0 +1,16 @@
+POLÍTICA DE PRIORIZAÇÃO DE MANUTENÇÃO
+
+Prioridade crítica:
+situações com risco potencial à segurança, possibilidade de dano grave ao
+equipamento ou interrupção significativa da produção.
+
+Prioridade alta:
+problemas em equipamentos de alta criticidade ou situações com forte
+probabilidade de evolução para parada operacional.
+
+Prioridade média:
+problemas com impacto operacional limitado e sem risco imediato.
+
+Prioridade baixa:
+ocorrências sem impacto direto na produção e sem risco aparente, incluindo
+parte das demandas administrativas e prediais.
